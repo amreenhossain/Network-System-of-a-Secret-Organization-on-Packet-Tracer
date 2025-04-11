@@ -5,7 +5,7 @@
 How to run this project on Packet Tracer:
 1. Download the pkt file
 2. Open the pkt file on Packet Tracer
-Thats it!
+
 
 Optional:
 Read the commands text file to know about the configuration codes. 
